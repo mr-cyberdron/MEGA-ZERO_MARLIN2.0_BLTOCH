@@ -1,7 +1,7 @@
 # MEGA-ZERO_MARLIN2.0_BLTOCH
 This repository contains working sourse code of marlin 2.0 baset on stock frimware, and comunity work
-Main project based on work avaliable on next link: https://github.com/kad/Marlin
-instruction of boot frimware: https://github.com/kad/Marlin/wiki
+  -Main project based on work avaliable on next link: https://github.com/kad/Marlin
+  -instruction of boot frimware: https://github.com/kad/Marlin/wiki
 
 
 # Marlin 3D Printer Firmware
