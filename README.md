@@ -33,7 +33,7 @@ This repository contains working sourse code of marlin 2.0 baset on stock frimwa
   
   13) or other configuration from this: https://github.com/kad/Marlin/wiki/Build-Variants
   
-  14) you can back for stock frimware : https://github.com/mr-cyberdron/Mega-zero-stock-frimware 
+  14) you can back to stock frimware : https://github.com/mr-cyberdron/Mega-zero-stock-frimware 
   
   
 
