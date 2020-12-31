@@ -35,6 +35,7 @@ This repository contains working sourse code of marlin 2.0 baset on stock frimwa
   
   14) you can back to stock frimware : https://github.com/mr-cyberdron/Mega-zero-stock-frimware 
   
+  Support autor: qiwi.com/p/380937122470
   
 
 
