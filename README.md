@@ -3,7 +3,15 @@ This repository contains working sourse code of marlin 2.0 baset on stock frimwa
   
   -Main project based on work avaliable on next link: https://github.com/kad/Marlin
   
-  -instruction of boot frimware: https://github.com/kad/Marlin/wiki
+  in this version:
+  
+    *Fixed parameters configuration.h and configuration_adw.h, according to stock frimware repository: https://github.com/ANYCUBIC-3D/MEGA_ZERO
+  
+    *Update Extruder resolution
+    
+    *Update nozzle PID
+  
+  -instruction of boot frimware: 
   
   -to boot frimware you need :
   
@@ -34,6 +42,10 @@ This repository contains working sourse code of marlin 2.0 baset on stock frimwa
   13) or other configuration from this: https://github.com/kad/Marlin/wiki/Build-Variants
   
   14) you can back to stock frimware : https://github.com/mr-cyberdron/Mega-zero-stock-frimware 
+  
+  15) if you chouse manual calibration, turn on it after homing in auto bed leveling setings after evry reboot, or use starting G - code comand "M420 S" after homing
+  
+  16) Enjoy
   
   Support autor: qiwi.com/p/380937122470
   
