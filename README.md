@@ -47,6 +47,8 @@ This repository contains working sourse code of marlin 2.0 baset on stock frimwa
   
   16) Enjoy
   
+  link with first-autor discussion: https://github.com/kad/Marlin/discussions/1
+  
   Support autor: qiwi.com/p/380937122470
   
 
