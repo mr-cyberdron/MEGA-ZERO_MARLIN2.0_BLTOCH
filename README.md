@@ -4,6 +4,38 @@ This repository contains working sourse code of marlin 2.0 baset on stock frimwa
   -Main project based on work avaliable on next link: https://github.com/kad/Marlin
   
   -instruction of boot frimware: https://github.com/kad/Marlin/wiki
+  
+  -to boot frimware you need :
+  
+  1) install Visual Studio Code
+  
+  2) install arduino ide
+  
+  3) install Platformio in it
+  
+  4) chose board sanguino atmega 2814 16mhz
+  
+  5) close visual studio
+  
+  6) install  Python 2.7 in default floder
+  
+  7)Modify PATH, go system variables -> PATH ->edit -> add: C:\Python27 -> add C:\Python27\Scripts
+  
+  8) Run CMD -> pip install -U platformio
+  
+  9) if instalation sucsess, write CMD in adress bar of dearchiwated repository 
+  
+  10) connect anycubic MEGA ZERO to computer
+  
+  11) write, pio run -e anycubic_mega_zero_mbl -t upload (manual adjustment)
+  
+  12) write, pio run -e anycubic_mega_zero_bl_zmin -t upload (bltouch)
+  
+  13) or other configuration from this: https://github.com/kad/Marlin/wiki/Build-Variants
+  
+  14) you can back for stock frimware : https://github.com/mr-cyberdron/Mega-zero-stock-frimware 
+  
+  
 
 
 # Marlin 3D Printer Firmware
